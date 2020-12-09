@@ -33,7 +33,6 @@ This talk considers adding supervision to well-known generative latent variable 
 
 Bio:
 
-Michael C. Hughes ("Mike") is an Assistant Professor of Computer Science at Tufts University. Mike’s research focus is in statistical machine learning and its applications to healthcare. His goal is to develop predictive and explanatory models that find useful structure in large, messy datasets and help people make decisions in the face of uncertainty. His research interests include Bayesian nonparametric models for sequences, networks, and images; optimization algorithms for approximate inference; and semi-supervised learning. Previously, from 2016-2018 he was a postdoctoral fellow in computer science at Harvard's School of Engineering and Applied Sciences (SEAS), advised by Prof. Finale Doshi-Velez. He completed a Ph.D. in the Department of Computer Science at Brown University in 2016 advised by Prof. Erik Sudderth, and an undergraduate degree in 2010 at Olin College of Engineering. You can find his papers and open-source code on the web at www.michaelchughes.com.
 
 #### 1:00-1:30pm EST Invited Talk from [Andrew Gelman](http://www.stat.columbia.edu/~gelman/), Columbia University
 
@@ -41,7 +40,6 @@ Michael C. Hughes ("Mike") is an Assistant Professor of Computer Science at Tuft
 
 *Abstract: We can't fit the models we want to fit because it takes too long to fit them on our computer.  Also, we don't know what models we want to fit until we try a few.  I share some stories of struggles with data-partitioning and parameter-partitioning algorithms, what kinda worked and what didn't.*
 
-Andrew Gelman is an applied statistician, author of Bayesian Data Analysis and other books, and one of the developers of the probabilistic programming language Stan.
 
 #### (1:30-2:00pm EST) Roger Grosse, University of Toronto
 
@@ -51,7 +49,6 @@ In the pre-AlexNet days of deep learning, second-order optimization gave dramati
 
 Bio:
 
-Roger Grosse is an Assistant Professor of Computer Science at the University of Toronto, and a founding member of the Vector Institute for Artificial Intelligence. He received his Ph.D. in computer science from MIT, and then spent two years as a postdoc at the University of Toronto. He holds a Canada Research Chair in Probabilistic Inference and Deep Learning, an Ontario MRIS Early Researcher Award, and a CIFAR Canadian AI Chair.
 
 
 #### 2:00-2:30pm EST - Weiwei Pan
@@ -59,3 +56,8 @@ Roger Grosse is an Assistant Professor of Computer Science at the University of 
 **Title: What are Useful Uncertainties for Deep Learning and How Do We Get Them?**
 
 *Abstract: While deep learning has demonstrable success on many tasks, the point estimates provided by standard deep models can lead to overfitting and provide no uncertainty quantification on predictions.  However, when models are applied to critical domains such as autonomous driving, precision health care, or criminal justice, reliable measurements of a model's predictive uncertainty may be as crucial as correctness of its predictions. In this talk, we examine a number of deep (Bayesian) models that promise to capture complex forms for predictive uncertainties, we also examine metrics commonly used to such uncertainties. We aim to highlight strengths and limitations of these models as well as the metrics; we also discuss ideas to improve both in meaningful ways for downstream tasks.*
+
+
+## Contributed Talks
+
+(details coming soon)
