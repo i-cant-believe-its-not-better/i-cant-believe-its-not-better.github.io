@@ -16,7 +16,7 @@ You can find the schedule below. All times are **Eastern Standard Time (EST)**.
 Important note: the [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB) will be available during the whole Workshop.
 
 | Opening remarks                    | 7:45-8:00 |
-| **Invited talk** - Max Welling: *The LIAR (Learning with Interval Arithmetic Regularization) is Dead*         | 8:00-8:30|
+| **Invited talk** - Max Welling: *The LIAR (Learning with Interval Arithmetic Regularization) is Dead*         | [8:00-8:30](https://www.starts-at.com/event/2835043211)|
 | **Invited talk** - Danielle Belgrave: *Machine Learning for Personalised Healthcare: Why is it not better?*  | 8:30-9:00 |
 | **Invited talk** - Michael C. Hughes: *The Case for Prediction Constrained Training*         | 9:00-9:30 |
 | Spotlight talks (M. Selosse; D. Cai; W. Ronny; U. Madhushani; E. Jones; Y. Rudolph)                       | 9:30-9:50 |
