@@ -6,19 +6,19 @@ description:
 ---
 
 To adapt the workshop format to its virtual setting and prioritize creative discussions, we will have breakout discussions in small groups on [Gather Town](
-https://gather.town/app/5163xhrHdSWrUZsG/ICBINB).
+https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB).
 
 <figure> <img src="../assets/img/gathertown/05_breakout.png" height="300" /> <figcaption>GatherTown environment for Breakouts</figcaption> </figure>
 
 ### What are breakouts?
 
-A breakout is a 30min informal discussion that will take place at **16h15-16h45pm EST** on the official [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB). The goal of this session is to share experiences related to the selected topic, find common interests, identify challenges/opportunities for improvement,  and brainstorm about ways to improve the research process overall. Each breakout will be moderated by a senior researcher, and will focus on a different step in the modeling process:
+A breakout is a 30min informal discussion that will take place at **16h15-16h45pm EST** on the official [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB). The goal of this session is to share experiences related to the selected topic, find common interests, identify challenges/opportunities for improvement,  and brainstorm about ways to improve the research process overall. Each breakout will be moderated by a senior researcher, and will focus on a different step in the modeling process:
 
 | Topic         | Moderator |
 | Crazy data        | [Stephanie Hyland](https://sthy.land/pages/bio.html) |
 | Tricky priors         | [Roger Grosse](http://www.cs.toronto.edu/~rgrosse/) |
 | Muddled models      | [Isabel Valera](https://ivaleram.github.io/) |
-| Bumpy inference  | [Francisco Ruiz](https://franrruiz.github.io/)  |
+| Bumpy inference  | [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan)  |
 | Off metrics | [Tamara Broderick](https://people.csail.mit.edu/tbroderick/) |
 | | |
 
